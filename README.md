@@ -1,4 +1,4 @@
-# Consumer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
 ## Retail Customer Analytics for Business Growth and Customer Engagement
 
